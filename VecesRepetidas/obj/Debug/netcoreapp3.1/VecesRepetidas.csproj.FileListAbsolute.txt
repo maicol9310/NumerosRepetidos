@@ -1,0 +1,14 @@
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.csproj.AssemblyReference.cache
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.AssemblyInfoInputs.cache
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.AssemblyInfo.cs
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.csproj.CoreCompileInputs.cache
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\bin\Debug\netcoreapp3.1\VecesRepetidas.exe
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\bin\Debug\netcoreapp3.1\VecesRepetidas.deps.json
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\bin\Debug\netcoreapp3.1\VecesRepetidas.runtimeconfig.json
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\bin\Debug\netcoreapp3.1\VecesRepetidas.runtimeconfig.dev.json
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\bin\Debug\netcoreapp3.1\VecesRepetidas.dll
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\bin\Debug\netcoreapp3.1\VecesRepetidas.pdb
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.dll
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.pdb
+C:\Users\SHAX\source\repos\VecesRepetidas\VecesRepetidas\obj\Debug\netcoreapp3.1\VecesRepetidas.genruntimeconfig.cache
